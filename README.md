@@ -14,7 +14,7 @@
 
 ### Run Container
 
-`docker run -d  --name reverse-proxy -p 80:80 reverse-proxy:latest`
+`docker run -d --name reverse-proxy -p 80:80 reverse-proxy:latest`
 
 <br />
 <br />
